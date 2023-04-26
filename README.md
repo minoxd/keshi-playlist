@@ -2,6 +2,9 @@
 # ai doc thi non
 chay bang phan mem sikuli 
 phan mem khac thi t ko bt
+link spotify
+https://open.spotify.com/playlist/6CKQF5juwMEFTJUhJvl2Cq?si=e264c98d969e4815
+* nghia la khong co tren spotify
 
 ```
 beside you
